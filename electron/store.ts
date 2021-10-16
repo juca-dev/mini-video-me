@@ -116,7 +116,7 @@ export const userPreferences = new Store({
     clipPath: '',
     flipHorizontal: false,
     zoom: 1.1,
-    borderColorCss: 'linear-gradient(to right, #988BC7, #FF79C6)',
+    borderColorCss: 'linear-gradient(to right, #3177D9, #0AEDEE)',
     showBorder: true,
   },
 })
